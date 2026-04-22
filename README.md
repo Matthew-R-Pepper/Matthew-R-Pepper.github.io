@@ -1,2 +1,4 @@
 # Matthew-R-Pepper.github.io
-Engineering portfolio featuring selected projects, lab reports, and technical analyses demonstrating applied mechanical engineering skills in modeling, design, and problem solving.
+This repository contains selected mechanical engineering coursework, lab reports, and projects completed during my academic studies. It showcases applied problem-solving, technical analysis, and engineering design work across multiple areas of mechanical engineering.
+
+The work included reflects experience with experimental methods, computational tools, and data-driven analysis used to study and model physical systems.
